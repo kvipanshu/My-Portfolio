@@ -1,4 +1,4 @@
-.skill__container {
+.skills__container {
 	grid-template-columns: repeat(2, 350px);
 	column-gap: 3rem;
 	justify-content: center;
@@ -31,7 +31,7 @@
 	display: flex;
 	column-gap: 0.5rem;
 }
-.skills .bs-badge-check {
+.skills .bx-badge-check {
 	font-size: 1rem;
 	color: var(--title-color);
 }
@@ -56,7 +56,7 @@
 /* For medium devices */
 @media screen and (max-width: 576px) {
 	.skills__container {
-		grid-template-columns: 1fe;
+		grid-template-columns: 1fr;
 	}
 	.skills__content {
 		padding: 1.5rem;
