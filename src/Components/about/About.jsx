@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/Pic.jpg";
-import CV from "../../assets/KUMAR_VIPANSHU_CV.pdf";
+import CV from "../../assets/VIPANSHU_CV.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -17,12 +17,15 @@ const About = () => {
 					<Info />
 
 					<p className="about__description">
-						Web Developer with passion for creating attractive and interactive
-						websites, meeting customer needs and exceeding expectations. Excels
-						in HTML, CSS, JavaScript and ReactJS development. I am eager to
-						leverage my skills and contribute to innovative projects while
-						continuing to expand my knowledge of frontend technologies and best
-						practices.
+						My experience spans building robust e-commerce platforms, real-time
+						chat applications, and intuitive admin dashboards. I utilize the
+						MERN stack (MongoDB, Express, React, Node.js) and integrate advanced
+						front-end and back-end technologies including Stripe, Socket.io,
+						Zustand, and TailwindCSS. My projects demonstrate a strong focus on
+						performance, security, and user experience, leveraging Agile
+						methodologies for efficient project management. Explore my work
+						below to see how I apply these skills to deliver innovative
+						solutions.
 					</p>
 
 					<a download="" href={CV} className="button button--flex">

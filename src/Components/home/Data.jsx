@@ -55,10 +55,10 @@ const Data = () => {
 					></path>
 				</svg>
 			</h1>
-			<h3 className="home__subtitle">Web Developer</h3>
+			<h3 className="home__subtitle">Full-stack Developer</h3>
 			<p className="home__description">
-				A web developer based in India, and passionate about crafting engaging
-				user interfaces and seamless experiences for web applications.
+				Welcome to my portfolio! I am a Full-stack developer based in India,
+				with expertise in creating scalable and dynamic web applications.
 			</p>
 
 			<a href="#contact" className="button button--flex">
