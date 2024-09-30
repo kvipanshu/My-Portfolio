@@ -54,6 +54,14 @@ const Backend = () => {
 							<span className="skills__level">Intermediate</span>
 						</div>
 					</div>
+
+					<div className="skills__data">
+						<i class="bx bx-badge-check"></i>
+						<div>
+							<h3 className="skills__name">WordPress</h3>
+							<span className="skills__level">Intermediate</span>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
